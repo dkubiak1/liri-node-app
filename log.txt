@@ -1,0 +1,68 @@
+spotify-this-song rafArtist: A$AP Mob,A$AP Rocky,Playboi Carti,Quavo,Lil Uzi Vert,Frank Ocean
+Name: RAF
+Preview: https://p.scdn.co/mp3-preview/84356f04a8fd6c80bac241ab8efb602945625512?cid=869989747296456fa959f3b7ceb5b797
+Album: RAFspotify-this-song raf
+Artist: A$AP Mob,A$AP Rocky,Playboi Carti,Quavo,Lil Uzi Vert,Frank Ocean
+Name: RAF
+Preview: https://p.scdn.co/mp3-preview/84356f04a8fd6c80bac241ab8efb602945625512?cid=869989747296456fa959f3b7ceb5b797
+Album: RAF
+spotify-this-song raf
+Artist: A$AP Mob,A$AP Rocky,Playboi Carti,Quavo,Lil Uzi Vert,Frank Ocean
+Name: RAF
+Preview: https://p.scdn.co/mp3-preview/84356f04a8fd6c80bac241ab8efb602945625512?cid=869989747296456fa959f3b7ceb5b797
+Album: RAF
+do-what-it-says undefined
+
+spotify-this-song "I Want it That Way"
+Artist: Backstreet Boys
+Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=869989747296456fa959f3b7ceb5b797
+Album: The Hits--Chapter One
+my-tweets undefined
+Text: 🌺    🌍    💘    🏴‍☠️     📽️     🐼    🧐     🚴‍♀️
+Date created: Fri Jun 08 09:20:59 +0000 2018Text: But maybe a few more? To test the algorithm?🦋
+Date created: Fri Jun 08 09:16:29 +0000 2018Text: It turns out emojis render into bash 🍒🥑☮️🌈😎🌏
+Date created: Fri Jun 08 09:18:28 +0000 2018Text: Just hangin out, you?
+Date created: Fri Jun 08 09:02:13 +0000 2018Text: No way I'm sending out 20 tweets tonight
+Date created: Fri Jun 08 09:15:03 +0000 2018Text: Tweet no. 2!!
+Date created: Fri Jun 08 08:59:18 +0000 2018Text: Hello World!
+Date created: Fri Jun 08 08:52:10 +0000 2018
+spotify-this-song regulate
+Artist: Warren G,Nate Dogg
+Name: Regulate
+Preview: null
+Album: Regulate… G Funk Era (Special Edition)
+do-what-it-says undefined
+
+spotify-this-song "I Want it That Way"
+Artist: Backstreet Boys
+Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=869989747296456fa959f3b7ceb5b797
+Album: The Hits--Chapter One
+movie-this pulp
+Name: Pulp Fiction
+Year: 1994
+IMBD Rating: 8.9
+Rotten Tomatoes Rating: 94%
+Country: USA
+Language :English, Spanish, French
+Plot :The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+movie-this goodfellas
+Name: Goodfellas
+Year: 1990
+IMBD Rating: 8.7
+Rotten Tomatoes Rating: 96%
+Country: USA
+Language :English, Italian
+Plot :The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+Actors: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+movie-this there
+Name: There Will Be Blood
+Year: 2007
+IMBD Rating: 8.1
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language :English, American Sign Language
+Plot :A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
+Actors: Daniel Day-Lewis, Martin Stringer, Matthew Braden Stringer, Jacob Stringer
